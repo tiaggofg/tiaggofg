@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago
 
-<!--
-**tiaggofg/tiaggofg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- - <p> 🔭 I’m currently working on ...</p> -->
 
-Here are some ideas to get you started:
+- <p> 🌱 I’m currently Julia, Python and SQL. Also I'm lerning the fundamentals of dev web </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--- - <p> 👯 I’m looking to collaborate on ... </p> -->
+
+- <p> ⚡ About me: Right now, I'm just an undergraduate student in Physics at the Instituto Federal Catarinense, that is, I'm not working. I'm a geek who loves to learn new things and I'm really into Star Wars and the whole geek universe. </p>
+
+
+## 🛠 Tech Stack
+
+![Julia](https://img.shields.io/badge/-Julia-EAEDED?style=flat&logo=julia)&nbsp;
+![Python](https://img.shields.io/badge/-Python-EAEDED?style=?style=flat&logo=python)&nbsp;
+![LaTeX](https://img.shields.io/badge/-LaTeX-EAEDED?style=flat&logo=LaTeX&logoColor=1EA155)&nbsp;
+![Git](https://img.shields.io/badge/-Git-EAEDED?style=?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-EAEDED?style=?style=flat&logo=github&logoColor=2A2E34)&nbsp;
+![VScode](https://img.shields.io/badge/-VSCode-EAEDED?style=?style=flat&logo=visual%20studio%20code&logoColor=7198EA)&nbsp;
+<!--- ![]()&nbsp; -->
+
+## 👨🏽‍🦲 Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://twitter.com/tiaggofg" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Twitter-4F7BD8?fstyle=flatl&logo=twitter&logoColor=FCFCFC" alt="twitter"/>  
+</a>
+<!--- <a href="https://linkedin.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-tiaggofg-FFFFFF?style=flat&logo=linkedin" alt="linkedin"/>
+</a> -->
+<a href="https://instagram.com/tiaggofg" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Instagram-DD6077?fstyle=flatl&logo=instagram&logoColor=FCFCFC" alt="instagram"/>
+</a>
+  <a href="tiago.fernandes.godoy@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Gmail-38373D?fstyle=flatl&logo=gmail&logoColor=FCFCFC" alt="instagram"/>
+</a>
+</p>
