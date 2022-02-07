@@ -1,12 +1,12 @@
-# Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago
+# Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Tiago
 
 <!--- - <p> 🔭 I’m currently working on ...</p> -->
 
-- <p> 🌱 I’m currently Julia, Python and SQL. Also I'm lerning the fundamentals of dev web </p>
+- <p> 🌱 I’m currently learning Julia, Python and SQL. Also I'm lerning the fundamentals of dev web </p>
 
 <!--- - <p> 👯 I’m looking to collaborate on ... </p> -->
 
-- <p> ⚡ About me: Right now, I'm just an undergraduate student in Physics at the Instituto Federal Catarinense, that is, I'm not working. I'm a geek who loves to learn new things and I'm really into Star Wars and the whole geek universe. </p>
+- <p> ⚡ About me: I'm just an undergraduate student in Physics at the moment in Instituto Federal Catarinense, that is, I'm not working. I'm a geek who loves to learn new things and I'm really into Star Wars and the whole geek universe. </p>
 
 
 ## 🛠 Tech Stack
