@@ -2,14 +2,13 @@
 
 <!--- - <p> 🔭 I’m currently working on ...</p> -->
 
-- <p> 🌱 I’m currently learning Julia, Python and SQL. Also I'm lerning the fundamentals of dev web </p>
+- <p> ⚡ I'm just an undergraduate student in Physics at the moment in Instituto Federal Catarinense, that is, I'm not working. I'm love to learn new things and I'm really into Star Wars and the whole geek universe. </p>
+
+- <p> 🌱 I’m currently learning Julia, Python and SQL. I'm also learning the fundamentals of web development </p>
 
 <!--- - <p> 👯 I’m looking to collaborate on ... </p> -->
 
-- <p> ⚡ About me: I'm just an undergraduate student in Physics at the moment in Instituto Federal Catarinense, that is, I'm not working. I'm a geek who loves to learn new things and I'm really into Star Wars and the whole geek universe. </p>
-
-
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ![Julia](https://img.shields.io/badge/-Julia-EAEDED?style=flat&logo=julia)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-EAEDED?style=?style=flat&logo=python)&nbsp;
@@ -19,7 +18,7 @@
 ![VScode](https://img.shields.io/badge/-VSCode-EAEDED?style=?style=flat&logo=visual%20studio%20code&logoColor=7198EA)&nbsp;
 <!--- ![]()&nbsp; -->
 
-## 👨🏽‍🦲 Social Links
+## 👨🏽 Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/tiaggofg" target="_blank">
