@@ -4,7 +4,7 @@
 
 - <p> ⚡ I'm just an undergraduate student in Physics at the moment in Instituto Federal Catarinense, that is, I'm not working. I'm love to learn new things and I'm really into Star Wars and the whole geek universe. </p>
 
-- <p> 🌱 I’m currently learning Julia, Python and SQL. I'm also learning the fundamentals of web development </p>
+- <p> 🌱 I’m currently learning Julia, Python and SQL. I'm also learning the fundamentals of web development and English language. </p>
 
 <!--- - <p> 👯 I’m looking to collaborate on ... </p> -->
 
