@@ -1,9 +1,11 @@
 # 💫 Hi there :v: I'm Tiago
 
-🔭 I’m currently working on Delsoft Sistemas<br>🌱 I'm an undergraduate student in Physics at the moment in Instituto Federal Catarinense. I love to learn new things and I'm really into Star Wars and the whole geek universe.<br>⚡ I’m currently learning Java, SQL, CSS, and JS. I'm also learning the fundamentals of web development.
+🌱 I'm an undergraduate student in Physics at the moment in Instituto Federal Catarinense. I love to learn new things and I'm really into Star Wars and the whole geek universe.<br>⚡ I’m currently learning Java, SQL, CSS, and JS. I'm also learning the fundamentals of web development.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tiaggofg) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tiaggofg) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tiaggofg) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tiaggofg) 
+[![E-Mail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](tiago.godoy@proton.me)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
