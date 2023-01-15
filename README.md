@@ -26,5 +26,5 @@
 
 ## 📊 GitHub Stats:
 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiaggofg&theme=dark&hide_border=false" width="85%"/>]()
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiaggofg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="85%"/>]()
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiaggofg&theme=dark&hide_border=false" width="54%"/>]()
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiaggofg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="44%"/>]()
