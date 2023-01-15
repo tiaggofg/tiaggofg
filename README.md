@@ -1,16 +1,19 @@
-# 💫 Hi there :v: I'm Tiago
 
-🌱 I'm an undergraduate student in Physics at the moment in Instituto Federal Catarinense. I love to learn new things and I'm really into Star Wars and the whole geek universe.<br>
+<div align="center">
+  <h1>💫 Hi there :v: I'm Tiago</h1>
+  
+  [![E-Mail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](mailto:tiago.godoy@proton.me)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tiaggofg)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tiaggofg)
+  
+  🌱 I'm currently working on [Magazord Digital Commerce](http://magazord.com.br/) as a Java Developer Jr. I love to learn new things and I'm really into Star Wars and the whole geek universe.
+</div>
 
-⚡ I’m currently learning Java, SQL, CSS, and JS. I'm also learning the fundamentals of web development.
+## 💻 Tech Stack:
 
-## 🌐 Socials:
-[![E-Mail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](mailto:tiago.godoy@proton.me)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tiaggofg) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tiaggofg) 
-
-# 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=flat&logo=linux&logoColor=black)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
@@ -21,10 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tiaggofg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tiaggofg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiaggofg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
 
----
-[![](https://visitcount.itsvg.in/api?id=tiaggofg&icon=2&color=12)](https://visitcount.itsvg.in)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiaggofg&theme=dark&hide_border=false" width="50%"/>]()
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiaggofg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="41%"/>]()
