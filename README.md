@@ -6,7 +6,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tiaggofg)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tiaggofg)
   
-  🌱 I'm currently working on [Magazord Digital Commerce](http://magazord.com.br/) as a Java Developer Jr. I love to learn new things and I'm really into Star Wars and the whole geek universe.
+  🌱 I'm currently working for [Magazord Digital Commerce](http://magazord.com.br/) as a Java Developer Jr. I love to learn new things and I'm really into Star Wars and the whole geek universe.
 </div>
 
 ## 💻 Tech Stack:
